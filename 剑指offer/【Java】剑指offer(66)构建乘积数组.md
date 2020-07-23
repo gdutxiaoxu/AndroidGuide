@@ -19,7 +19,7 @@
 
 考虑到计算每个B[i]时都会有重复，思考B[i]之间的联系，找出规律，提高效率。
 
-![](https://img2018.cnblogs.com/blog/1407330/201811/1407330-20181116214635748-1968740855.png)
+![](https://raw.githubusercontent.com/gdutxiaoxu/blog_pic/master/offer/1407330-20181116214635748-1968740855.png)
 
 图片转构建乘积数组:https://www.cnblogs.com/wxdjss/p/5448990.html
 

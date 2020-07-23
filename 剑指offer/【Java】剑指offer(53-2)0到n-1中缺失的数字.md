@@ -16,7 +16,7 @@
 
 分析易知，数组形式如下：
 
-![](https://img2018.cnblogs.com/blog/1407330/201811/1407330-20181114145612145-1558110605.png)
+![](https://raw.githubusercontent.com/gdutxiaoxu/blog_pic/master/offer/1407330-20181114145612145-1558110605.png)
 
 如果从头到尾依次比较值与小标是否相等，时间复杂度为O(n)，效率低。
 

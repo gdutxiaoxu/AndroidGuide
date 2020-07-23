@@ -1,5 +1,5 @@
 # 【Java】 剑指offer(2) 不修改数组找出重复的数字  
-  
+
 > 作者:gdutxiaoxu<br/> 微信公众号:徐公码字（stormjun94）<br/>来源:https://github.com/gdutxiaoxu/Android_interview
 
 _本文参考自《剑指offer》一书，代码采用Java语言。_
@@ -31,16 +31,16 @@ Number](https://www.cnblogs.com/yongh/p/9981582.html)，时间复杂度仅为O(n
 
 （含测试代码）
 
-    
-    
-    /**
-     * 
-     * @Description 不修改数组找出重复的数字
-     *
-     * @author yongh
-     * @date 2018年7月16日 上午11:47:44
-     */
-    
+
+​    
+​    /**
+​     * 
+​     * @Description 不修改数组找出重复的数字
+​     *
+​     * @author yongh
+​     * @date 2018年7月16日 上午11:47:44
+​     */
+​    
     /*
      * 题目：在一个长度为n+1的数组里的所有数字都在1到n的范围内，所以数组中至
      * 少有一个数字是重复的。请找出数组中任意一个重复的数字，但不能修改输入的
@@ -141,15 +141,16 @@ Number](https://www.cnblogs.com/yongh/p/9981582.html)，时间复杂度仅为O(n
     		f2.test3();
     	}
     }
-    
 
-![](https://images.cnblogs.com/OutliningIndicators/ContractedBlock.gif)![](https://images.cnblogs.com/OutliningIndicators/ExpandedBlockStart.gif)
 
-    
-    
-    test1：数组输入无效！
-    test2：数字大小超出范围！
-    test3：重复数字为：2
+![](https://images.cnblogs.com/OutliningIndicators/ContractedBlock.gif)
+![](https://images.cnblogs.com/OutliningIndicators/ExpandedBlockStart.gif)
+
+
+​    
+​    test1：数组输入无效！
+​    test2：数字大小超出范围！
+​    test3：重复数字为：2
 
 FindDuplication2
 

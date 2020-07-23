@@ -130,7 +130,7 @@ _本文参考自《剑指offer》一书，代码采用Java语言。_
     }
     
 
-![](https://images.cnblogs.com/OutliningIndicators/ContractedBlock.gif)![](https://images.cnblogs.com/OutliningIndicators/ExpandedBlockStart.gif)
+![](https://images.cnblogs.com/OutliningIndicators/ContractedBlock.gif)![](https://raw.githubusercontent.com/gdutxiaoxu/blog_pic/master/offer/ExpandedBlockStart.gif)
 
     
     

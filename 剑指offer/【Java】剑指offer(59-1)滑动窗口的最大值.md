@@ -80,7 +80,7 @@
 
 2.ArrayDeque——双端队列，要记住。下面是一些常用的方法：
 
-![](https://img2018.cnblogs.com/blog/1407330/201811/1407330-20181115165621790-67013616.png)
+![](https://raw.githubusercontent.com/gdutxiaoxu/blog_pic/master/offer/1407330-20181115165621790-67013616.png)
 
 **更多《剑指Offer》Java实现合集:https://github.com/gdutxiaoxu/Android_interview ******
 

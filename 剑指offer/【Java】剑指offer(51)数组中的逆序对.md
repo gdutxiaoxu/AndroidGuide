@@ -26,7 +26,7 @@
 
 （4）最后将排序好的数字按顺序赋值给原始数组的两个子区域，以便合并后的区域与别的区域合并。
 
-![](https://img2018.cnblogs.com/blog/1407330/201811/1407330-20181114084308747-1926985388.png)
+![](https://raw.githubusercontent.com/gdutxiaoxu/blog_pic/master/offer/1407330-20181114084308747-1926985388.png)
 
 **测试算例** ****
 
