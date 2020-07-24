@@ -1,3 +1,15 @@
+## 简介
+
+这个仓库主要提供一些面试资料，计算机网络基础，算法，面试常见问题，有兴趣的可以关注一下，会经常更新
+
+> 微信公众号:徐公码字（stormjun94）<br/>来源:https://github.com/gdutxiaoxu/Android_interview
+
+
+微信公众号：
+<img src="https://raw.githubusercontent.com/gdutxiaoxu/blog_pic/master/19_08/%E5%BE%90%E5%85%AC%E7%A0%81%E5%AD%97%202.jpeg"/>
+
+
+## 目录
 
 - [Android基础](https://github.com/gdutxiaoxu/Android_interview/tree/master/Android_interview/Android基础)
     - [Android面试必备-JVM及类加载机制.md](https://github.com/gdutxiaoxu/Android_interview/tree/master/Android基础/Android面试必备-JVM及类加载机制.md)
@@ -85,4 +97,4 @@
     - [【Java】剑指offer(66)构建乘积数组.md](https://github.com/gdutxiaoxu/Android_interview/tree/master/剑指offer/【Java】剑指offer(66)构建乘积数组.md)
     - [【Java】剑指offer(67)把字符串转换成整数.md](https://github.com/gdutxiaoxu/Android_interview/tree/master/剑指offer/【Java】剑指offer(67)把字符串转换成整数.md)
     - [【Java】剑指offer(68)树中两个结点的最低公共祖先.md](https://github.com/gdutxiaoxu/Android_interview/tree/master/剑指offer/【Java】剑指offer(68)树中两个结点的最低公共祖先.md)
-    - [目录]《剑指Offer》Java实现.md](https://github.com/gdutxiaoxu/Android_interview/tree/master/剑指offer/目录]《剑指Offer》Java实现.md)
+
