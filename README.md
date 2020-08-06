@@ -99,5 +99,5 @@
     - [【Java】剑指offer(67)把字符串转换成整数.md](https://github.com/gdutxiaoxu/Android_interview/tree/master/剑指offer/【Java】剑指offer(67)把字符串转换成整数.md)
     - [【Java】剑指offer(68)树中两个结点的最低公共祖先.md](https://github.com/gdutxiaoxu/Android_interview/tree/master/剑指offer/【Java】剑指offer(68)树中两个结点的最低公共祖先.md)
 - [leetcode](https://github.com/gdutxiaoxu/Android_interview/blob/master/Android_interview/leetcode)
-    - [arraylist-leetcode-list.md](https://github.com/gdutxiaoxu/Android_interview/blob/master/ArrayList/arraylist-leetcode-list.md)
-    - [arraylist.md](https://github.com/gdutxiaoxu/Android_interview/blob/master/ArrayList/arraylist.md)
+    - [arraylist-leetcode-list.md](https://github.com/gdutxiaoxu/Android_interview/blob/master/leetcode/ArrayList/arraylist-leetcode-list.md)
+    - [arraylist.md](https://github.com/gdutxiaoxu/Android_interview/blob/master/leetcode/ArrayList/arraylist.md)
