@@ -2,6 +2,7 @@
   
 > 作者:gdutxiaoxu<br/> 微信公众号:徐公码字（stormjun94）<br/>来源:https://github.com/gdutxiaoxu/Android_interview
 
+[leetcode 137](https://leetcode-cn.com/problems/single-number-ii/solution/xiang-xi-tong-su-de-si-lu-fen-xi-duo-jie-fa-by--31/)
 ****
 
 本文参考自《剑指offer》一书，代码采用Java语言。
