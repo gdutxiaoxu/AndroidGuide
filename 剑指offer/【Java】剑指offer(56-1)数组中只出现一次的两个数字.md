@@ -2,6 +2,8 @@
   
 > 作者:gdutxiaoxu<br/> 微信公众号:徐公码字（stormjun94）<br/>来源:https://github.com/gdutxiaoxu/Android_interview
 
+[leetcode](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/solution/zhi-chu-xian-yi-ci-de-liang-ge-shu-zi-by-l25899981/)
+
 ****
 
 本文参考自《剑指offer》一书，代码采用Java语言。
