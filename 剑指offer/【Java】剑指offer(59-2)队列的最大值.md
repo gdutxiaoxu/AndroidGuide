@@ -8,6 +8,8 @@
 
 **更多《剑指Offer》Java实现合集:https://github.com/gdutxiaoxu/Android_interview ******
 
+[leetcode](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-ii-javashi-xian-yuan-li-he-mian-shi/)
+
 ## 题目
 
 请定义一个队列并实现函数max得到队列里的最大值，要求函数max、push_back和pop_front的时间复杂度都是O(1)。
