@@ -8,6 +8,8 @@
 
 **更多《剑指Offer》Java实现合集:https://github.com/gdutxiaoxu/Android_interview ******
 
+[leetcode](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solution/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-by-lee/)
+
 ## 题目
 
 0, 1, …, n-1这n个数字排成一个圆圈，从数字0开始每次从这个圆圈里删除第m个数字。求出这个圆圈里剩下的最后一个数字。
