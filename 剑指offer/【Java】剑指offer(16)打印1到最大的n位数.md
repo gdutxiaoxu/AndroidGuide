@@ -4,6 +4,8 @@
 
 本文参考自《剑指offer》一书，代码采用Java语言。
 
+[leetcode](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/solution/javajian-zhi-offeryuan-ti-jie-fa-by-toheng-2/)
+
 **更多《剑指Offer》Java实现合集:https://github.com/gdutxiaoxu/Android_interview ******
 
 ## 题目
