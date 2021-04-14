@@ -1,20 +1,3 @@
-- [简介](#简介)
-- [性能优化](#性能优化)
-  - [启动优化](#启动优化)
-- [个人总结](#个人总结)
-- [Android 必学](#android-必学)
-- [开源框架](#开源框架)
-- [面试必备](#面试必备)
-  - [网络和基础](#网络和基础)
-  - [面经](#面经)
-- [徐公随笔](#徐公随笔)
-- [设计模式](#设计模式)
-- [算法](#算法)
-  - [剑指 offer](#剑指-offer)
-  - [leetcode 算法](#leetcode-算法)
-  - [算法总结](#算法总结)
-- [Git](#git)
-
 
 
 
@@ -43,6 +26,31 @@ hello，大家好，欢迎大家来到这里，**能来到这里，证明是一�
 希望我们可以成为朋友，成长路上的忠实伙伴！
 
 ![](https://raw.githubusercontent.com/gdutxiaoxu/blog_pic/master/21/0120210409172003.png)
+
+
+
+**目录如下**
+
+
+
+- [简介](#简介)
+- [性能优化](#性能优化)
+  - [启动优化](#启动优化)
+- [个人总结](#个人总结)
+- [Android 必学](#android-必学)
+- [开源框架](#开源框架)
+- [面试必备](#面试必备)
+  - [网络和基础](#网络和基础)
+  - [面经](#面经)
+- [徐公随笔](#徐公随笔)
+- [设计模式](#设计模式)
+- [算法](#算法)
+  - [剑指 offer](#剑指-offer)
+  - [leetcode 算法](#leetcode-算法)
+  - [算法总结](#算法总结)
+- [Git](#git)
+
+
 
 
 
@@ -301,7 +309,7 @@ hello，大家好，欢迎大家来到这里，**能来到这里，证明是一�
 - [【Java】剑指offer(65)不用加减乘除做加法.md](https://github.com/gdutxiaoxu/Android_interview/tree/master/剑指offer/【Java】剑指offer(65)不用加减乘除做加法.md)
 - [【Java】剑指offer(66)构建乘积数组.md](https://github.com/gdutxiaoxu/Android_interview/tree/master/剑指offer/【Java】剑指offer(66)构建乘积数组.md)
 - [【Java】剑指offer(67)把字符串转换成整数.md](https://github.com/gdutxiaoxu/Android_interview/tree/master/剑指offer/【Java】剑指offer(67)把字符串转换成整数.md)
-- - 【Java】剑指offer(68)树中两个结点的最低公共祖先.md](https://github.com/gdutxiaoxu/Android_interview/tree/master/剑指offer/【Java】剑指offer(68)树中两个结点的最低公共祖先.md)
+- [【Java】剑指offer(68)树中两个结点的最低公共祖先.md](https://github.com/gdutxiaoxu/Android_interview/tree/master/剑指offer/[Java]剑指offer(68)树中两个结点的最低公共祖先.md)
 
 ## leetcode 算法
 
@@ -341,4 +349,6 @@ hello，大家好，欢迎大家来到这里，**能来到这里，证明是一�
 
 [Git 配置别名 —— 让命令变得更简单](http://mp.weixin.qq.com/s?__biz=MzUzODQxMzYxNQ==&mid=2247484080&idx=1&sn=afb5d1761e10dbef27a89244fc5c3bf6&chksm=fad95df0cdaed4e6865bd59284dd79af5f4b5e9b8d961d0869133957b755c24feda91e19bf99#rd)
 
-[git 设置 mergetool，difftool 为 BeyondCompare](http://mp.weixin.qq.com/s?__biz=MzUzODQxMzYxNQ==&mid=2247483729&idx=1&sn=9786e928150084ab9ac43856defc0720&chksm=fad95e11cdaed707e7aa3e81b5ec1cf82bbd232d24b7a60b198cb74085f1b8b26cd8dc84a7fd#rd)
+[git 设置 mergetool，difftool 为 BeyondCompare](
+
+- http://mp.weixin.qq.com/s?__biz=MzUzODQxMzYxNQ==&mid=2247483729&idx=1&sn=9786e928150084ab9ac43856defc0720&chksm=fad95e11cdaed707e7aa3e81b5ec1cf82bbd232d24b7a60b198cb74085f1b8b26cd8dc84a7fd#rd)
