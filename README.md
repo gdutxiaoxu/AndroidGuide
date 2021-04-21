@@ -16,16 +16,17 @@ hello，大家好，欢迎大家来到这里，**能来到这里，证明是一�
 
     
 
-这几年开，我是站在巨人的肩膀上成长起来的，同样，我也希望成为你们的巨人。觉得不错的话可以关注一下我的微信公众号程序员徐公。主要分享
+这几年开，我是站在巨人的肩膀上成长起来的，同样，我也希望成为你们的巨人。觉得不错的话可以关注一下我的微信公众号**程序员徐公**。主要分享
 
 1. **Android 开发相关知识**：包括 java，kotlin， Android 技术。
 2. **面试相关分享**：包括常见的面试题目，大厂面试真题、面试经验套路分享。
 3. **算法相关学习笔记**：比如怎么学习算法，leetcode 常见算法总结，跟大家一起学习算法。
 4. **时事点评**：主要是关于互联网的，比如小米高管屌丝事件，拼多多女员工猝死事件等
+5. 公众号回复“**黑马**”两字，可以获得 Android 学习视频。回复 ”**java**“ 两字，可以获得 java 学习视频。
 
 希望我们可以成为朋友，成长路上的忠实伙伴！
 
-![](https://raw.githubusercontent.com/gdutxiaoxu/blog_pic/master/21/0120210409172003.png)
+![](https://gitee.com/gdutxiaoxu/blog-picture/raw/master/21/02/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BE%90%E5%85%AC%20(new).png)
 
 
 
@@ -57,6 +58,8 @@ hello，大家好，欢迎大家来到这里，**能来到这里，证明是一�
 # 性能优化
 
 ## 启动优化
+
+[Android 启动优化（七） - JetPack App Startup 使用及源码浅析](https://mp.weixin.qq.com/s/teU8bNyRnzoYo4aUx5HORQ)
 
 [Android 启动优化（六）- 深入理解布局优化](http://mp.weixin.qq.com/s?__biz=MzUzODQxMzYxNQ==&mid=2247485155&idx=1&sn=59b7211f2b1414d4f99b0897aa132c50&chksm=fad959a3cdaed0b52ff20fe7cbd40c5fb0ef438ba4aea0a0ac59d04a8ddff817bb8bfe7dd2e8#rd)
 
@@ -349,6 +352,4 @@ hello，大家好，欢迎大家来到这里，**能来到这里，证明是一�
 
 [Git 配置别名 —— 让命令变得更简单](http://mp.weixin.qq.com/s?__biz=MzUzODQxMzYxNQ==&mid=2247484080&idx=1&sn=afb5d1761e10dbef27a89244fc5c3bf6&chksm=fad95df0cdaed4e6865bd59284dd79af5f4b5e9b8d961d0869133957b755c24feda91e19bf99#rd)
 
-[git 设置 mergetool，difftool 为 BeyondCompare](
-
-- http://mp.weixin.qq.com/s?__biz=MzUzODQxMzYxNQ==&mid=2247483729&idx=1&sn=9786e928150084ab9ac43856defc0720&chksm=fad95e11cdaed707e7aa3e81b5ec1cf82bbd232d24b7a60b198cb74085f1b8b26cd8dc84a7fd#rd)
+[git 设置 mergetool，difftool 为 BeyondCompare](http://mp.weixin.qq.com/s?__biz=MzUzODQxMzYxNQ==&mid=2247483729&idx=1&sn=9786e928150084ab9ac43856defc0720&chksm=fad95e11cdaed707e7aa3e81b5ec1cf82bbd232d24b7a60b198cb74085f1b8b26cd8dc84a7fd#rd)
