@@ -79,6 +79,8 @@ hello，大家好，欢迎大家来到这里，**能来到这里，证明是一�
 
 # 个人总结
 
+[程序员该如何写好自己的简历，一位 5 年中大厂老哥跟你聊聊](https://mp.weixin.qq.com/s/cqVo6UQqnWZtKdZ6mJt93w)
+
 [我的 5 年 Android 学习之路，那些年一起踩过的坑](http://mp.weixin.qq.com/s?__biz=MzUzODQxMzYxNQ==&mid=2247485229&idx=1&sn=decb80fd2a5870764e954b2419f0e599&chksm=fad9586dcdaed17b9ca091578f156c80cc84238c742cbfbef0a7d959528e72ff9286e1bee079#rd)
 
 [关于我，一个简单低调的程序员](http://mp.weixin.qq.com/s?__biz=MzUzODQxMzYxNQ==&mid=2247485050&idx=2&sn=4ca8bb93a6c3d588100b2a6ab5b359f7&chksm=fad9593acdaed02ce17687a9396a78741aef05ead1cd038a0ae85a124ad7c4c1f3ab70968e8a#rd)
