@@ -226,7 +226,7 @@ hello，大家好，欢迎大家来到这里，**能来到这里，证明是一�
 
 ****[Android隐私合规检测（借助 Xposed）](https://blog.csdn.net/wang_yong_hui_1234/article/details/125087621)****
 
-**一文学会字节码替换，再也不用担心隐私合规审核**
+**[一文学会字节码替换，再也不用担心隐私合规审核](https://mp.weixin.qq.com/s/Mq2ZG3HgSoJ2SBb1x2x3tA)**
 
 **[真牛系列 - 一步步解决 App 隐私违规问题](https://mp.weixin.qq.com/s/0TwCSxvoVSXK3HYFtm25Zg)**
 
